@@ -1,0 +1,6 @@
+print("HII, i am a tinder girl")
+a = input()
+print("my name is lehsun")
+a = input()
+print("How are you")
+a = input()
